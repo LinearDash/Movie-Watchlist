@@ -97,6 +97,16 @@ td {
     font-style: italic;
 }
 
+#addToList {
+    margin-top: 40px;
+    border-radius: 4px;
+    height: 25px;
+    border: none;
+    background-color: rgb(243, 70, 70);
+    color: rgb(255, 255, 255);
+
+}
+
 #removeButton {
     margin-left: 5px;
     border-radius: 4px;
